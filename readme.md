@@ -1,1 +1,1 @@
-Create a basic php rest api for front end diverse applications such as reactjs.
+Create a basic php rest api with frontend fetch call.
